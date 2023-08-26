@@ -28,7 +28,7 @@ spec:
 ---
 '''
 #pv-pvc-mongo-hostpath.yml
-apiVersion: v1
+apiVersion: v3
 kind: PersistentVolume
 metadata:
   name: pv-hostpath
